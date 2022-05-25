@@ -1,4 +1,4 @@
 image:
-  repository: nginx
+  repository: alpine
   pullPolicy: IfNotPresent
-  tag: "1.21.1"
+  tag: "1.23"
