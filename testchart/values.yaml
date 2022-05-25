@@ -1,4 +1,4 @@
 image:
   repository: alpine
   pullPolicy: IfNotPresent
-  tag: "1.23"
+  tag: "3.14"
